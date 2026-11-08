@@ -9,6 +9,9 @@
 <br><br>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UDF e estou no começo da minha jornada em programação, aprendendo na prática com projetos pessoais e da faculdade. Atualmente estou praticando Python, C, SQL (MySQL), HTML e CSS (com Bootstrap), além de Git e GitHub. Também fiz cursos de Linux e de monitoramento com Zabbix.
+
+🇺🇸 **English:** I'm looking for my first opportunity in IT (internship or junior position) and I want to evolve one project at a time.
+
 <br>
 
 <h3 align="center">🔗 Conecte-se comigo</h3>
